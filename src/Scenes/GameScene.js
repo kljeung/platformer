@@ -20,7 +20,7 @@ export default class GameScene extends Phaser.Scene {
 
     preload() {
         this.load.setPath('assets/');
-        this.load.tilemapTiledJSON('level', 'platlevel-1.tmj');
+        this.load.tilemapTiledJSON('level', 'platLevel-1.tmj');
         this.load.image('monochrome_tileset', 'monochrome_tilemap_packed.png');
         this.load.image('rat', 'rat.png');
         this.load.image('diamond', 'diamond.png');
