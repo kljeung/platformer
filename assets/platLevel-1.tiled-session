@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#platformer-tilemap-packed": {
+            "scaleInDock": 1
+        },
+        "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 0.6949074074074074,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 414.4437041972019,
+                "y": 279.89340439706865
+            }
+        },
+        "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platLevel-1.tmx": {
+            "scale": 1.91,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 179.58115183246073,
+                "y": 168.84816753926702
+            }
+        },
+        "platLevel-1.tmx#platform-tileset-packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/PlatformImprovement/assets",
+    "last.imagePath": "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/platformer/assets",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "platLevel-1.tiled-project",
+    "recentFiles": [
+        "platLevel-1.tmx",
+        "/Users/kimberlyjeung/Downloads/SCHOOL/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
